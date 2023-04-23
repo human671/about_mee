@@ -1,0 +1,24 @@
+
+#footer {
+    background: #000000;
+    color: white;
+    padding: 46px 0 62px;
+}
+
+.footer__h {
+    font-family: 'Monts', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.contacts {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 34px;
+    list-style: none;
+}

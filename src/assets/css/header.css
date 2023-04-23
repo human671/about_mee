@@ -1,0 +1,41 @@
+header {
+    background: black;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 100%;
+    height: 100%;
+    /* border: 2px solid red; */
+}
+
+.header__wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 72px;
+}
+
+.logo {
+    font-family: 'Inter-Bold', sans-serif;
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.menu__link {
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+}

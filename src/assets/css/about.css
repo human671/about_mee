@@ -1,0 +1,39 @@
+#about {
+    background: #0E1C25;
+    padding: 30px 0 112px;
+}
+
+.about__h {
+    margin-bottom: 48px;
+    color: white;
+    font-family: 'Inter-Bold', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+}
+
+.about__wrap {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about__desc {
+    max-width: 465px;
+    color: white;
+}
+
+.desc__h {
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 42px;
+    margin-bottom: 62px;
+}
+
+.desc__p {
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+}
